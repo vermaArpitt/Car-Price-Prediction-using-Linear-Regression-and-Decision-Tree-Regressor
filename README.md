@@ -1,4 +1,7 @@
-# OSS_Lab
-Assignments for my College Lab
+# Car Price Prediciton using Linear Regression and Decision Tree Regressor Machine Learning Models
+As an assignment of our 5th semester Open Source Lab in Btech CSE course, we made this project which predicts Car Prices using basic Machine Learning Models:
 
-A repository to upload my Open Source Lab assignments.
+- Linear Regression
+- Decision Tree Regressor
+
+
