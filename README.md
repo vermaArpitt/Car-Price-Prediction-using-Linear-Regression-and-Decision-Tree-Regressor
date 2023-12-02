@@ -4,7 +4,7 @@ As an assignment of our 5th semester Open Source Lab in Btech CSE course, we mad
 - Linear Regression
 - Decision Tree Regressor
 
-Steps involved in the making of this process:
+Steps involved in the making of this project :
 
 1. Data Preprocessing.
 2. Splitting data set into Training and Testing Sets.
